@@ -7,6 +7,6 @@ public class BaseClass {
 	public static WebDriver driver;
 	
 	public void SynchronizeBrowser() {
-		
+		System.out.println("this is my new comit");
 	}
 }
